@@ -1,5 +1,6 @@
 # Voidstar Solutions
 
+We are a small software consulting and development organization. We build robust front- and back-ends using Dart, Node, Rust, and more.
 <!--
 
 **Here are some ideas to get you started:**
